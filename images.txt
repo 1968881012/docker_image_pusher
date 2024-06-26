@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 centos7.2
 ubuntu:14.04
+python:2.7
