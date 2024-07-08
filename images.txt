@@ -7,3 +7,4 @@ xhofe/alist:latest
 centos
 ubuntu:14.04
 python
+mysql
